@@ -1,0 +1,53 @@
+@media screen and (max-width:1154px){
+
+}
+@media screen and (min-width:1024px){	
+	
+}
+@media screen and (max-width:800px){
+	.logo-jkw {margin: 0 auto !important}
+	.cd-main-content{padding-top:50px;}
+	.mainbody{padding-top:0; padding-bottom:0px;}
+	.hide_desktop{display:block; visibility:visible;}
+	.hide_mobile{display:none; visibility:hidden;}
+	.cd-main-content .logo-top{position:absolute; right:15px; top:0px; width:80px; z-index: 2;}
+	.header-in{padding:0; height:54px;}
+	header{height:50px;}
+	#cd-menu-trigger{height:50px; width:50px; border:0; margin-right:0;}
+	#cd-menu-trigger .cd-menu-icon{left:25px;}
+	.right-menu{height:50px; width:50px; border:0;}
+	.right-menu i, .right-menu a{font-size:22px; color:#333;}
+	.header-in h1.logos{float:none;}
+	.header-in h1.logos img{margin: 0 auto; height:32px;}
+	.block-button-in{ overflow-y: scroll; max-width:1200px; justify-content: flex-start;}
+	a.btn-big{margin:0 5px; min-width:200px;}
+	ul.box-color li{width: 100%; float:none;}
+	ul.box-color li .debox{min-height:270px;}
+	ul.box-color.col2{max-width:500px;}
+	ul.box-color.col2 li{width:100%; float:none;}
+	.box50{width:100%; float:none; padding:0 15px; min-height:100px;}
+	.contact-form{margin-top:30px;}
+	.pilih-inside{min-width:100%;}
+	.container .logo-top{width:40px;}
+	.block-button{padding:15px 0;}
+	.mobile-menu{display:block; height:40px;background:#ddd; margin:0 -15px;}
+	.mobile-menu a{font-weight:500;width:auto; padding:0 15px; float:left; display:flex; align-items:center; justify-content: center; height:40px; font-size:12px;color:#333; border-right:3px solid #fff;}
+	.mobile-menu a:hover{background:#333; color:#fff;}
+	.foot-box .foot-logo, .foot-box .foot-logo img{height:55px;}
+	.box80{width:100%; float:none;}
+	.box70{width:100%; float:none;}
+	.box30{width:100%; float:none;}
+	.box20{width:100%; float:none;}
+	h2.title{font-size:20px; line-height:24px;}
+	h1.title{font-size:30px; line-height:34px;}
+	h2.faq{font-size:40px; line-height:44px;}
+	h2.baru {font-size:40px;line-height:40px;}
+	.chart{width: auto;height: auto;}
+}
+@media screen and (max-width:768px){
+
+   
+}
+@media screen and (max-width:500px){
+
+}
